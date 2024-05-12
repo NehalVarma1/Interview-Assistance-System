@@ -14,3 +14,6 @@ This LLM is developed by using various open source tools like:
 
 4.meta-llama/Meta-Llama-3-8B-Instruct (It is an pretrained LLM)
  
+
+this youtube video shows the above llm model in action
+https://www.youtube.com/watch?v=nRRYSXcvYMU
