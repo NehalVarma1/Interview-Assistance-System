@@ -1,6 +1,5 @@
 # Interview-Assistance-System
 
-Please go through this video which describes about the above project in more detail https://drive.google.com/file/d/13tMManrfGvnhlLo5QxQPQdrpUshpXdyK/view?usp=sharing
 
 This System is an Large Language model(LLM) Designed to provide answers to current interview related questions.
  Which is achieved by retraining the model after a certain period of time persistently
