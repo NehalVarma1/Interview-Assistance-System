@@ -16,5 +16,4 @@ This LLM is developed by using various open source tools like:
  
 Code's colab lin https://colab.research.google.com/drive/1I0Gl7OE_fOBXjQNHRfLL1ejjXFzcCPyi?usp=sharing
 
-this youtube video shows the above llm model in action
-https://www.youtube.com/watch?v=nRRYSXcvYMU
+
